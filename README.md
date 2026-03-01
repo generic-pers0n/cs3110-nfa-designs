@@ -1,6 +1,13 @@
 # CS 3110 NFA Designs
 _By Avery King, made with JFLAP._
 
+## Selected Problems
+- Problem 6
+- Problem 13
+- Problem 15
+- Problem 18
+- Problem 19
+
 ## How This Is Laid Out
 Each directory will use the following naming template: `nProblem`. For example, if problem 8 is selected, then it would be named `n08`.
 
